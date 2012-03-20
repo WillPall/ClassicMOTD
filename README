@@ -1,0 +1,4 @@
+ClassicMOTD
+
+An extremely simple CraftBukkit plugin that adds simple "Message of the Day"
+functionality that announces when any player logs on.
