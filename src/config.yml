@@ -1,0 +1,4 @@
+# ClassicMOTD configuration
+# 
+# 'message' is the message to send to players
+message: 'Welcome to the server!'

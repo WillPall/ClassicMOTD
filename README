@@ -1,4 +1,6 @@
-ClassicMOTD
+ClassicMOTD v0.3
+
+v0.3+ is compatible with CB-1.2.3-R0.2
 
 An extremely simple CraftBukkit plugin that adds simple "Message of the Day"
 functionality that announces when any player logs on.
